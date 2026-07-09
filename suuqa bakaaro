@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="so">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suuqa Bakaarah Clone</title>
+
+    <style>
+        body{
+            background-color:#f5f5f5;
+            font-family:Arial, sans-serif;
+            margin:0;
+            padding:0;
+        }
+
+        header{
+            background-color:#ff6a00;
+            color:white;
+            text-align:center;
+            padding:20px;
+        }
+
+        nav{
+            background-color:#222;
+            padding:15px;
+            text-align:center;
+        }
+
+        nav a{
+            color:white;
+            text-decoration:none;
+            margin:15px;
+            font-weight:bold;
+        }
+
+        nav a:hover{
+            color:yellow;
+        }
+
+        .container{
+            width:80%;
+            margin:auto;
+            padding:20px;
+        }
+
+        .card{
+            background:white;
+            padding:20px;
+            border-radius:10px;
+            box-shadow:0 0 10px gray;
+        }
+
+        footer{
+            background:#222;
+            color:white;
+            text-align:center;
+            padding:15px;
+            margin-top:30px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Suuqa Bakaarah Clone</h1>
+
+<p>Ku soo dhawoow Suuqa Online-ka Soomaaliyeed</p>
+
+</header>
+
+<nav>
+
+<a href="#">Home</a>
+
+<a href="#">Products</a>
+
+<a href="#">About</a>
+
+<a href="#">Contact</a>
+
+</nav>
+
+<div class="container">
+
+<div class="card">
+
+<h2>Ku soo Dhawoow</h2>
+
+<p>
+Halkan waxaad ka iibsan kartaa
+Mobile, Laptop, TV, iyo alaabo kale.
+</p>
+
+</div>
+
+</div>
+
+<footer>
+
+© 2026 Suuqa Bakaarah Clone
+
+</footer>
+
+</body>
+</html>
